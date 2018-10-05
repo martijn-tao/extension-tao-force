@@ -1,6 +1,6 @@
 {
 
-    "name": "oat/taoForce",
+    "name": "martijn-tao/extension-tao-force",
     "description" : "May the force be with you!",
     "type" : "tao-extension",
     "authors" : [
